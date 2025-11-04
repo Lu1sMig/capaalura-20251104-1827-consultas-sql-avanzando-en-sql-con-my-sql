@@ -187,3 +187,12 @@ CASE
 END
 ORDER BY ENVASE;Copia el código
 38.png
+
+Lo que aprendimos en esta aula:
+
+A presentar solamente filas distintas en una selección;
+A ordenar la salida de la selección;
+A agrupar los registros por un conjunto de campos y aplicando un criterio de agrupamiento sobre los campos numéricos (SUM, MIN, MAX, AVG, etc);
+A utilizar el comando HAVING para aplicar un filtro utilizando los campos numéricos agrupados como condición;
+A limitar la salida de las consultas;
+A usar el comando CASE para clasificar un determinado campo por un criterio.
